@@ -1,5 +1,4 @@
-# edporium
-Emporium System
+# Edporium System
 
 
 A supervised payment system for parents
